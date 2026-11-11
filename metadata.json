@@ -1,0 +1,6 @@
+{
+  "name": "Apex Booster",
+  "description": "Android Gaming Booster that optimizes CPU performance, clears background tasks automatically, monitors real-time FPS, and provides a customizable gaming HUD with high-temperature alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
